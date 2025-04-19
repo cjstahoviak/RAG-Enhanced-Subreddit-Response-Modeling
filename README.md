@@ -21,7 +21,7 @@ The final model architecture:
 - Visualizes embedding quality using t-SNE and hexbin plots
 - Compares loss curves and training times across models
 
-Please see `./reports` for a full report.
+You can read the full report here: [Multimodal Argument Retrieval Report (PDF)](report/Multimodal_Argument_Retrieval_using_FAISS_and_Graph_Neural_Network.pdf)
 
 ## ⚙️ Setup
 - Please setup an `OPENAI_API_KEY` in your system path.
