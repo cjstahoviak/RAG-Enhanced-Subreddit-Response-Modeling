@@ -1,0 +1,107 @@
+
+
+================================================================================
+RESPONSE USING SENTENCE EMBEDDINGS
+================================================================================
+Answer: I don't know when Silksong will be released. There hasn't been an official release date announced yet.
+
+
+Source Documents:
+Document 0:
+When will Silksong not be released?
+--------------------------------------------------------------------------------
+Document 1:
+When will Silksong release?(i have lost almost all hope that it will release)
+--------------------------------------------------------------------------------
+Document 2:
+When will silksong release
+--------------------------------------------------------------------------------
+Document 3:
+When will silksong release
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RESPONSE USING GNN EMBEDDINGS
+================================================================================
+Answer: I don't have information on the specific release date for Silksong. Development timelines can be unpredictable, but hopefully, the game will be worth the wait. Keep an eye on official announcements from Team Cherry for the most accurate updates.
+
+
+Source Documents:
+Document 0:
+Formula for the flatness of a universe, Omega=actual mass density/critical mass density. If omega is 1, the universe is flat, if omega&gt;1 the universe is closed, or a sphere shape, if omega&lt;1 the universe is open, or a saddle shape.
+--------------------------------------------------------------------------------
+Document 1:
+Magnetic field strength at distance=( permeability of free space*current)/(2pi(distance))
+--------------------------------------------------------------------------------
+Document 2:
+Placeholder
+--------------------------------------------------------------------------------
+Document 3:
+Day 21 of commenting on this series until silksong: "The equation is a lie"-portal physics spinoff, this is going to far, i had a dream last night that silksong was out, and the gameplay was amazing! I loved the ant kingdom. Then i woke up, remembered, and was sad
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RESPONSE USING NODE2VEC EMBEDDINGS
+================================================================================
+Answer: I don't know the exact release date for Silksong as there hasn't been any official announcement from Team Cherry regarding it. Many fans share the same anticipation and hope for news soon.
+
+
+Source Documents:
+Document 0:
+https://preview.redd.it/z268g5y3ifub1.jpeg?width=500&format=pjpg&auto=webp&s=fab4d0950bbc43fecb3a3415ff2452071bbedadc
+--------------------------------------------------------------------------------
+Document 1:
+https://preview.redd.it/xdgxdhnsautb1.jpeg?width=828&format=pjpg&auto=webp&s=36f81248bf9b121da459bd5853eca4f86c2eeab6
+--------------------------------------------------------------------------------
+Document 2:
+Fake news
+--------------------------------------------------------------------------------
+Document 3:
+I think it's because of a frustration at a lack of news from team cherry while mongoose rodeo shares information at a consistent rate. Tho even then the take is still weird and you're right.
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RESPONSE USING SIMPLE_ATTENTION EMBEDDINGS
+================================================================================
+Answer: I don't know the exact release date for Silksong. Some people speculate it might come out in 2024, but nothing official has been confirmed.
+
+
+Source Documents:
+Document 0:
+It WILL come out 2024 or else I’m selling my appendix
+--------------------------------------------------------------------------------
+Document 1:
+I have no idea.
+--------------------------------------------------------------------------------
+Document 2:
+True, there is like a generation's time between each game
+--------------------------------------------------------------------------------
+Document 3:
+Ahh the ol’ post history dig up. I had never heard it used that way. I asked a question. You asked a question. I answered it. You got mad and frantically looked for something to throw back at me. You could have taken 2 seconds to google “is silksong out” instead of spamming and getting mad. You don’t think you would have seen ANYTHING about it being out before this post? No online hype? No articles? Just a screenshot of a boss? Zero critical thinking skills. Gullible and simple. Maybe lay off the weed for a bit, and make sure you’re wearing your helmet when you bike. Gotta protect that single brain cell.
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RESPONSE USING ENHANCED_ATTENTION EMBEDDINGS
+================================================================================
+Answer: I don't have information on the exact release date for "Silksong." It's best to keep an eye on official announcements from the developers, Team Cherry, for the most accurate and up-to-date information.
+
+
+Source Documents:
+Document 0:
+Nice
+--------------------------------------------------------------------------------
+Document 1:
+They announced at that State of Play that 'Stray' would be free to people signed up to the new higher tiers of PS Plus that are starting this month.
+
+I suspect Silksong could be one of the next 'free' games they announce.
+--------------------------------------------------------------------------------
+Document 2:
+🤡
+--------------------------------------------------------------------------------
+Document 3:
+I feel like it's better if we just *don't* let people know about game shows. If Silksong is shown, we'll definitely find out, and if it's not then no one will have to be disappointed.
+--------------------------------------------------------------------------------

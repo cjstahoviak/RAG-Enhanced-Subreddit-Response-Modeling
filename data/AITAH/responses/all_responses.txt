@@ -1,0 +1,108 @@
+
+
+================================================================================
+RESPONSE USING SENTENCE EMBEDDINGS
+================================================================================
+Answer: Based on the context provided, it seems like there may be concerns about the impact of discussing an ex on current relationships or friendships. It's not necessarily wrong to express your feelings about a topic that makes you uncomfortable, but it's important to communicate your perspective respectfully and considerately. If you feel that the conversations about their ex are problematic or disrespectful, it might be worth having an open discussion with your friend about how it affects you or others involved. However, ultimately, it's up to your friend to decide whether they want to continue discussing their ex, and it's important to respect their autonomy. If the conversations are negatively impacting you, you might consider setting boundaries for yourself regarding these discussions.
+
+
+Source Documents:
+Document 0:
+I totally agree, that’s really bad and so disrespectful to her, thats what I meant writing, maybe I didn’t express myself right, what I meant was that friendship between exes is totally possible, but if it was really just friendship and he was over he’s ex, there would be no reason to hide it. 🤷🏻‍♀️ In my opinion Op deserves so much better!
+--------------------------------------------------------------------------------
+Document 1:
+INFO: does your ex know you’re interested in, and talking to, her friend? If they’re friends, wouldn’t her friend know that you two dated and would have told her that you’re talking already?
+--------------------------------------------------------------------------------
+Document 2:
+This needs upvotes. Stop and ask yourself why she was allowing this conversation in her life. Maybe she needed the emotional validation. Someone who was having their emotional needs met would probably never have started talking to the ex. (Or anyone else)
+--------------------------------------------------------------------------------
+Document 3:
+She literally said that she isn’t gonna dictate that, but that’s really fucked up of him to be friends with HER ex’s, really fucked up.
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RESPONSE USING GNN EMBEDDINGS
+================================================================================
+Answer: Based on the context provided, it’s difficult to determine whether you are the asshole (YTA) for insisting your friend stop talking about their ex. However, if your friend’s discussions about their ex are affecting your well-being or the friendship negatively, it’s reasonable to set boundaries. It’s important to communicate your feelings honestly and respectfully, while also being considerate of your friend’s need to process their emotions. Without more specific context, it’s hard to make a definitive judgment.
+
+
+Source Documents:
+Document 0:
+Cool-sculpting also removes a small amount of fat at a time. It would take many sessions to remove allot of weight. I’m focusing on love handles and my belly and going to the gym when I have time to gradually lose weight over time. Cool-sculpting just helps with the progress. It’s not like liposuction where you go one time and it’s all gone. It’s not a magic cure all. I am weigh 190 and not be under weight.
+--------------------------------------------------------------------------------
+Document 1:
+NTA, you said it yourself your mom is a compulsive liar and liars simply can never be trusted. Keep putting boundaries between you and her especially her toxic bf.
+--------------------------------------------------------------------------------
+Document 2:
+[deleted]
+--------------------------------------------------------------------------------
+Document 3:
+Definitely NTA! It’s clear she’s under the spell
+Of domestic abuse. You’ve done right by her and now it’s time for you.
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RESPONSE USING NODE2VEC EMBEDDINGS
+================================================================================
+Answer: Based on the context provided, it's difficult to determine whether you're in the wrong without more information about the situation. However, generally speaking, insisting that a friend stop talking about their ex can be seen as insensitive if they are going through a difficult time and need to process their emotions. On the other hand, if the conversation is becoming repetitive and negatively impacting your well-being or the friendship, it's reasonable to set boundaries. It's important to approach the situation with empathy and communicate your feelings honestly while also considering your friend's perspective.
+
+
+Source Documents:
+Document 0:
+Oh hell no.  You need to get out of that house ASAP.  If they want to keep you, tell them your rate for abusive children is $200 a day and $100 for normal children.  You're not getting paid enough to begin with for what you do.  The average rate for a live in nanny is $15 an hour, so unless you're only working 3 hours a day, they are taking advantage of you.
+--------------------------------------------------------------------------------
+Document 1:
+I bet she has a golden 🐱 thats why he's not leaving her 💀
+--------------------------------------------------------------------------------
+Document 2:
+NTA 
+
+You’ve got lots of issues to resolve after he crossed that line - it’s huge.
+--------------------------------------------------------------------------------
+Document 3:
+ Thank you for your view. I’m just so confused. People say manipulation then you’re saying what he would say so I’m just confused. I was on drugs before but am sober now. I haven’t left any part out, we do argue, I do bad stuff too but this whole thing about my ex I haven’t left anything out. What makes you think I’m ignorant ??? Thank you
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RESPONSE USING SIMPLE_ATTENTION EMBEDDINGS
+================================================================================
+Answer: Based on the context provided, it's not clear whether you would be considered the asshole in this situation. It depends on how you approached the situation and the dynamics of your friendship. If you were respectful and expressed your feelings calmly, then it might not make you an asshole. However, if you were dismissive or harsh, it could be seen as inconsiderate. Ultimately, it depends on the specifics of the interaction and the feelings of both parties involved.
+
+
+Source Documents:
+Document 0:
+No, neither of them do anything. She’s lucky to even get them to pick their dirty clothes up out of the floor, much less anything else. She does literally everything for them. I honestly don’t mind to pay though, my rent was a lot higher than what I would be paying her, so I’d still be saving some. It’ll all work out! ❤️
+--------------------------------------------------------------------------------
+Document 1:
+im sorry this happened to you. I've had similar experiences too. they're pretty aggressive when it comes to their culture, which is by no means an excuse.
+--------------------------------------------------------------------------------
+Document 2:
+obviously you’re the asshole, don’t play dumb
+--------------------------------------------------------------------------------
+Document 3:
+White dresses are absolutely a trend, started by Queen Victoria and promoted by the wedding industry to sell expensive clothes that can’t be re-worn. You may like them, but that doesn’t make them better. And I’m in my 40s, older than OP, so apparently I was raised in that different time too. I was raised not to be judgmental and to discuss things with my partners instead of dictating to them what I think is best.
+--------------------------------------------------------------------------------
+
+
+================================================================================
+RESPONSE USING ENHANCED_ATTENTION EMBEDDINGS
+================================================================================
+Answer: I don't know enough about the specifics of your situation to determine if you are the asshole or not. Generally, insisting someone stop talking about their ex can depend on the context and your reasons. If your friend is constantly bringing up their ex in an unhealthy way and it is affecting their well-being or your friendship, it may be reasonable to have a conversation about setting boundaries. However, if you are simply uncomfortable without a significant reason, it might be helpful to discuss why it bothers you and find a compromise.
+
+
+Source Documents:
+Document 0:
+Thanks for the opinion,appreciate it
+--------------------------------------------------------------------------------
+Document 1:
+NTA at all. I question the age difference and I apologize for doing so. If my 17 year old niece was dating a 28 year old I would be upset and concerned. I myself have struggled with depression and anxiety etc. I would highly recommend learning DBT skills, Dialectical Behavior Therapy. I am 49 and have finally come to the realization that I can’t expect someone to love me if I don’t love myself. I think it may help you to embrace where you are now and let him go. You deserve better and a loving relationship will come to you when you are ready. You deserve it all ❤️ life is worth living
+--------------------------------------------------------------------------------
+Document 2:
+Not the ass
+--------------------------------------------------------------------------------
+Document 3:
+Nta I'm gonna guess niece is jealous and doesn't want her mom giving you attention.  If this is a group chat that the niece is texting her mom is in the wrong.
+--------------------------------------------------------------------------------
