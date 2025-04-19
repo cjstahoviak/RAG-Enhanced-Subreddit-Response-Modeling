@@ -34,4 +34,4 @@ You can read the full report here: [Multimodal Argument Retrieval Report (PDF)](
 As an alternative, the exact environement is shown in `./environment.yml` which is configured for CONDA.
 
 ## 📁 Custom Data
-Datasets of subreddit comments are downloaded from (this)[https://academictorrents.com/details/1614740ac8c94505e4ecb9d88be8bed7b6afddd4/tech&filelist=1] database. Often these files do not have a file extension on the end. They can be in either JSON or ZST format. Place these files in `./data/raw` when downloaded. Please use the script in `./notebooks/check_data_format.ipynb` to find this out.
+Datasets of subreddit comments were downloaded from the [Academic Torrents database](https://academictorrents.com/details/1614740ac8c94505e4ecb9d88be8bed7b6afddd4/tech&filelist=1). Often these files do not have a file extension on the end. They can be in either JSON or ZST format. Place these files in `./data/raw` when downloaded. Please use the script in `./notebooks/check_data_format.ipynb` to find this out.
